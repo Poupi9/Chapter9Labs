@@ -29,3 +29,5 @@ We will build the Git workflow in small stages:
 11. Optionally connect the local repository to GitHub  
 
 This step-by-step method helps you understand **what each command does** before combining them into a complete local Git workflow.
+
+Last modificaiton for the challenge task
