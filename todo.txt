@@ -1,0 +1,3 @@
+Finish Chapter 9 lab exercises
+Push project to GitHub
+Review git log and commit history
