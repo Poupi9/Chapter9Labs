@@ -12,3 +12,6 @@
 
     - `Command (⌘) + Shift + V` Full Screen Preview of a .md file
     - Alternatively, press `Command (⌘) + Shift + P` to open the Command Palette, type "Markdown: Open Preview to the Side", and press Enter.
+
+
+This is the change for the Callenge task.
